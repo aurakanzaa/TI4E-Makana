@@ -8,8 +8,8 @@
     <img src="{{base_url('/assets/images/logo.png')}}" alt="" class="logo" style="background-color:black;">
   </div>
   <div class="w3-padding-64 w3-large w3-text-grey" style="font-weight:bold">
-    <a href="#" class="w3-bar-item w3-button">Home</a>
-    <a href="#" class="w3-bar-item w3-button">My Order</a>
+    <a href="home" class="w3-bar-item w3-button">Home</a>
+    <a href="order" class="w3-bar-item w3-button">My Order</a>
     <!-- <a onclick="myAccFunc()" href="javascript:void(0)" class="w3-button w3-block w3-white w3-left-align" id="myBtn">
       Jeans <i class="fa fa-caret-down"></i>
     </a>
@@ -20,7 +20,7 @@
       <a href="#" class="w3-bar-item w3-button">Straight</a>
     </div> -->
     <a href="#" class="w3-bar-item w3-button">History</a>
-    <a href="#" class="w3-bar-item w3-button">Profile</a>
+    <a href="profile" class="w3-bar-item w3-button">Profile</a>
     <a href="#" class="w3-bar-item w3-button">Logout</a>
     <!-- <a href="#" class="w3-bar-item w3-button">Shoes</a> -->
   </div>
